@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.center {
+    text-align: center;
+    border: 1px solid black;
+    background-color: lightblue;
+}
+.center_image {
+    text-align: center;
+}
+.justify {
+    text-align: justify;
+}
